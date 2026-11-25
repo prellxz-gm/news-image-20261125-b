@@ -1,8 +1,8 @@
 # Atlas of a Day — news-image-20261125 (variant B)
 
-[![news-image-20261125](https://make.fun/badge/news-image-20261125/slug.svg)](https://make.fun/bounty/news-image-20261125)
-[![rank](https://make.fun/badge/news-image-20261125/rank.svg?owner=prellxz-gm&repo=news-image-20261125-b)](https://make.fun/bounty/news-image-20261125)
-[![reward](https://make.fun/badge/news-image-20261125/reward.svg?owner=prellxz-gm&repo=news-image-20261125-b)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/prellxz-gm/news-image-20261125-b/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/prellxz-gm/news-image-20261125-b/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Entry for the [news-image-20261125 bounty](https://make.fun/bounty/news-image-20261125):
 a world-map-led front page for **Wednesday, 25 November 2026**.
